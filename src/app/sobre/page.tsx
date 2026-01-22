@@ -1,5 +1,5 @@
-import ServerFetch from "@/components/server-fetch";
-import Width from "@/components/width";
+import ServerFetch from "@/components/server-fetch"; // cliente
+import Width from "@/components/width"; // cliente
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
